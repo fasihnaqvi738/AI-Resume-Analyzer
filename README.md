@@ -1,4 +1,4 @@
-# 🚀 AI Resume Analyzer
+#  AI Resume Analyzer
 
 An AI-powered Resume Analyzer that helps job seekers evaluate their resumes against job descriptions, identify missing skills, improve ATS compatibility, and receive AI-generated suggestions.
 
@@ -6,21 +6,21 @@ Built using **FastAPI**, **React**, **PostgreSQL**, and **Google Gemini AI**.
 
 ---
 
-## ✨ Features
+##  Features
 
-### 👤 User Management
+### User Management
 - User Registration
 - User Login
 - JWT Authentication
 - Secure Protected Routes
 
-### 📄 Resume Management
+###  Resume Management
 - Upload Resume (PDF / DOCX)
 - View Uploaded Resume
 - Delete Resume
 - Store Extracted Resume Content
 
-### 🤖 AI Resume Analysis
+###  AI Resume Analysis
 - Compare Resume with Job Description
 - Calculate ATS Score
 - Identify Matched Skills
@@ -28,14 +28,14 @@ Built using **FastAPI**, **React**, **PostgreSQL**, and **Google Gemini AI**.
 - Generate AI-Based Suggestions
 - Detailed Resume Feedback using Gemini AI
 
-### 📚 Analysis History
+###  Analysis History
 - Save Previous Analyses
 - View Complete Analysis Results
 - Delete Analysis Records
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 - FastAPI
@@ -53,7 +53,7 @@ Built using **FastAPI**, **React**, **PostgreSQL**, and **Google Gemini AI**.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 AI Resume Analyzer
@@ -83,7 +83,7 @@ AI Resume Analyzer
 
 ---
 
-# ⚙️ Installation
+#  Installation
 
 ## 1. Clone Repository
 
@@ -196,8 +196,7 @@ Example:
 ```env
 GEMINI_API_KEY=AIzaSyXXXXXXXXXXXXXXX
 ```
-
-⚠️ Never commit your `.env` file to GitHub.
+ Never commit your `.env` file to GitHub.
 
 ---
 
@@ -263,35 +262,10 @@ GEMINI_API_KEY=your_gemini_api_key
 
 ---
 
-# 📸 Screenshots
 
-### Login Page
-
-_Add Screenshot Here_
-
-### Dashboard
-
-_Add Screenshot Here_
-
-### Resume Upload
-
-_Add Screenshot Here_
-
-### Analysis Result
-
-_Add Screenshot Here_
-
-### Analysis History
-
-_Add Screenshot Here_
-
----
-
-# 🎯 Future Improvements
+#  Future Improvements
 
 - Resume Versioning
-- Resume Download Feature
-- User Profile Management
 - Multi-Resume Comparison
 - Export Analysis Reports (PDF)
 - Advanced ATS Scoring
@@ -299,7 +273,7 @@ _Add Screenshot Here_
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Syed Mohd Fasih Naqvi**
 
